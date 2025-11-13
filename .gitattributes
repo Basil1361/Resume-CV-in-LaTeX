@@ -1,0 +1,4 @@
+*.tex linguist-language=TeX
+*.bib linguist-language=TeX
+*.cls linguist-language=TeX
+*.sty linguist-language=TeX
