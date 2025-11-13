@@ -1,0 +1,214 @@
+% Source from: 
+% LaTeX Template: Curriculum Vitae;
+% For future edits: Refer to 
+% https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf
+% https://www.overleaf.com/learn
+
+\documentclass[paper=a4,fontsize=10pt]{scrartcl} % KOMA-article class		
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{amsmath,amsfonts,amsthm}     % Math packages
+\usepackage{graphicx}                    % Enable pdflatex
+\usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
+\usepackage[margin=0.5in]{geometry}
+	\textheight=700px                    % Saving trees ;-)
+\usepackage{url}
+
+\usepackage{tikz}
+\usepackage{kpfonts} % for \varheartsuit , also changes font
+\usepackage{color}
+\usepackage{fontawesome} % for \faPhone and other icons
+\usepackage{twemojis} % for emoji support
+\newcommand*\Hs{\ensuremath{\color{red}\varheartsuit}}
+
+%%% Heart-stab command
+\newcommand{\heartstab}{%
+\begin{tikzpicture}%
+\draw [line width=0.0mm, white] (3.5ex,0.4ex) -- (3.5ex,0.4ex);
+\Large{$\Hs$};
+\draw [line width=0.30mm, black] (-0.7ex,0.7ex) -- (1.2ex,1.2ex);%
+\draw [line width=0.50mm, black] (0.8ex,0.65ex) -- (0.55ex,1.45ex);%
+\end{tikzpicture}%
+}
+
+%%% Squiggly arrow
+\newcommand{\squigarr}{
+{\Large \color{blue}$\rightsquigarrow$}
+}
+
+%%% Star icon
+\newcommand{\staricon}{%
+{\Large \color{orange}$\star$}%
+}
+
+\usepackage[colorlinks=true,urlcolor=purple]{hyperref}
+
+\frenchspacing              % Better looking spacings after periods
+\pagestyle{empty}           % No pagenumbers/headers/footers
+
+%%% Custom sectioning (sectsty package)
+%%% ------------------------------------------------------------
+\usepackage{sectsty}
+
+\sectionfont{%			            % Change font of \section command
+	\usefont{OT1}{ptm}{b}{n}%		% bch-b-n: CharterBT-Bold font
+	\sectionrule{0pt}{0pt}{-5pt}{3pt}}
+
+%%% Macros
+%%% ------------------------------------------------------------
+\newlength{\spacebox}
+\settowidth{\spacebox}{8888888888}			% Box to align text
+\newcommand{\sepspace}{\vspace*{0.5em}}		% Vertical space macro
+
+\newcommand{\MyName}[1]{ % Name
+		\Huge \usefont{OT1}{ptm}{b}{n} \hfill #1
+		\par \normalsize \normalfont}
+		
+\newcommand{\MySlogan}[1]{ % Slogan (optional)
+		\large \usefont{OT1}{ptm}{m}{n}\hfill \textit{#1}
+		\par \normalsize \normalfont}
+		
+        
+\newcommand{\NameEmailPhoneSiteGithub}[5]{
+        \noindent
+        \begin{minipage}[t]{0.3\textwidth}
+                \Huge \usefont{OT1}{ptm}{b}{n} \textbf{#1}\\
+                \large \textit{Resume/CV (Made in LaTeX)}
+        \end{minipage}
+        \hfill
+        \begin{minipage}[t]{0.65\textwidth}
+                \raggedleft
+                \normalsize 
+                \faPhone\ #2 \hspace{1em} \faEnvelope\ #3\\
+                \faServer\ \href{#4}{#4} \hspace{1em} \faGithub\ \href{#5}{#5}\\
+        \end{minipage}
+        \par \normalsize \normalfont
+}
+
+\newcommand{\NewPart}[1]{\section*{\uppercase{#1}}}
+
+\newcommand{\SkillsEntry}[2]{      % Same as \PersonalEntry
+		\noindent\hangindent=2em\hangafter=0 % Indentation
+		\parbox{\spacebox}{        % Box to align text
+		\textit{#1}}			   % Entry name (birth, address, etc.)
+		\hspace{1.5em} #2 \par}    % Entry value	
+		
+
+
+%%% Begin Document
+%%% ------------------------------------------------------------
+\begin{document}
+
+%% you can upload a photo and include it here...
+%\begin{wrapfigure}{l}{0.5\textwidth}
+%	\vspace*{-2em}
+%		\includegraphics[width=0.15\textwidth]{picture-of-me1.jpg}
+%\end{wrapfigure}
+
+% ALTERNATIVE PICTURE SETTINGS TO THE ABOVE :
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\iffalse
+\begin{figure}
+%  \includegraphics[width=\linewidth]{picture-of-me1.jpg}
+%  \caption{
+    \includegraphics[width=.15\textwidth,left]{picture-of-me1.jpg}
+%    caption{left aligned image}
+%    \label{fig:me}
+\end{figure}
+\fi
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\MyName{Stephen Fay}
+
+%\MySlogan{Curriculum Vitae}
+
+\NameEmailPhoneSiteGithub{Ng Jia Jie}{+60(12)-775-5796}{trainerbasil69@gmail.com}{https://ciptaky.com/}{https://github.com/Basil1361}
+
+
+\sepspace
+
+%%% Education
+%%% ------------------------------------------------------------
+\NewPart{About Me:}{}
+\begin{itemize}
+    \item[\staricon] Enthusiastic, Passionate, Self-Driven Student
+    \item[\staricon] \twemoji{beating heart} Running, Hiking, Gym
+\end{itemize}
+
+\NewPart{Education}{}
+
+% Jesse said to make a hybrid of bothe CV's, so more bullet-points but also need adequate description
+\begin{itemize}
+    \item[\faGraduationCap] \textbf{High-school:} Sekolah Sri Tenby, Eco Park (2019-2023) 
+    \item[\faGraduationCap] \textbf{High-school Post SPM: } Kolej Yayasan UEM, Lembah Beringin (2024-2026)
+\end{itemize}
+
+%%% Work experience
+%%% ------------------------------------------------------------
+\NewPart{Experiences}{}
+
+\begin{itemize}
+    \item[\faCertificate] Vice Presdient of Chess Club 22' \squigarr 23' Varsity Chess Player
+    \item[\faCertificate] Data Analyst at FAS Solutions (3-4 months)
+    \item[\faCertificate] EECS Internship at UKM \squigarr PWM, C2C Comms, CoDrone 
+    \item[\faCertificate] Co-Founder of CIPTA \squigarr Vice Presdient 24', President 25', Data Science EXCO 25'
+\end{itemize}
+
+%%% Skills
+%%% ------------------------------------------------------------
+\NewPart{Skills}{}
+
+\noindent
+\begin{tabular}{@{}ll@{}}
+\textit{English} & Proficient (Bilingual)\\
+\textit{Malay} & Fluent \\
+\textit{Chinese} & Proficient (Bilingual)\\
+\textit{Coding} & Python, StoneScript, \LaTeX, TypeScript\\
+\textit{Software} & Kali, Burpsuite, WireShark
+\end{tabular}
+
+%%% Achievements
+%%% -----------------------------------------------------------
+
+\NewPart{Achievements, Honors}{}
+
+\begin{itemize}
+    \item[\faTrophy] K3M Distinction \squigarr Kuiz Kimia Kebangsaan Malaysia 
+    \item[\faTrophy] High Academic Award 23' \squigarr Top 7 in School
+    \item[\faTrophy] High Subject Award Physics 23' \squigarr Top 3 Physics Score
+    \item[\faTrophy] Foundational Certificate KidoCode \squigarr Python, HTML, Arduino, MIT App Inventor
+    \item[\faTrophy] U18 Leader for IJCO, Bronze Winner NJCO \squigarr Competed in Istanbul, Turkiye
+    \item[\faTrophy] ICSC Finalist \squigarr 2 round qualifier
+    \item[\faTrophy] IMONST Round 1 Honorable Mention 
+    \item[\faTrophy] OFM Round 1 Low Silver 
+\end{itemize}
+
+\NewPart{Volunteering Experiences}{}
+\begin{itemize}
+    \item[\faLightbulbO] 8+ years experience Volunteering in Temple \squigarr 300+ packets of food distributed annually
+    \item[\faLightbulbO] 8+ years in Blood Donation Drive \squigarr 200+ blood packages donated annually
+    \item[\faLightbulbO] Fundraised RM 1000+ worth of items for indian Orphanage (Sai Pandian)
+\end{itemize}
+
+\NewPart{Past Completed Projects}{}
+\begin{itemize}
+    \item[\faLightbulbO] Table Tennis trainer machine 
+    \item[\faLightbulbO] 2019 First Lego League Competitor 
+    \item[\faLightbulbO] 2020 WRO Virtual Robotics Toolkit
+    \item[\faLightbulbO] Completed Beginner KidoCode DS Course
+    \item[\faLightbulbO] Open Kaggle Competitions \squigarr Titanic + Iris Flower Classification
+\end{itemize}
+
+\NewPart{Future Plans, Ongoing Projects}{}
+
+\begin{itemize}
+    \item[\faLightbulbO] Poker Project (Texas Hold Em) \squigarr CFR + k-means
+    \item[\faLightbulbO] 2026 Data Science Workshop \squigarr ML + DA
+    \item[\faLightbulbO] Completing ML Course in KidoCode
+\end{itemize}
+
+\end{document}
+
+
+
