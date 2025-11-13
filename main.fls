@@ -1,6 +1,6 @@
-PWD D:\Latex Project
+PWD d:\Latex Project
 INPUT C:\Users\JJ-PC\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT main.tex
+INPUT d:\Latex Project\main.tex
 OUTPUT main.log
 INPUT D:\Latex Download\tex\latex\koma-script\scrartcl.cls
 INPUT D:\Latex Download\tex\latex\koma-script\scrartcl.cls
