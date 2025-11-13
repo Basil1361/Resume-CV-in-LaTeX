@@ -1,6 +1,6 @@
-PWD d:\Latex Project
+PWD D:\Latex Project
 INPUT C:\Users\JJ-PC\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Latex Project\main.tex
+INPUT main.tex
 OUTPUT main.log
 INPUT D:\Latex Download\tex\latex\koma-script\scrartcl.cls
 INPUT D:\Latex Download\tex\latex\koma-script\scrartcl.cls
@@ -381,36 +381,15 @@ INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsyc.tfm
 INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpexa.tfm
 INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpexa.tfm
 INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpexa.tfm
-INPUT D:\Latex Download\tex\latex\twemojis\all-twemojis.pdf
-INPUT D:\Latex Download\tex\latex\twemojis\all-twemojis.pdf
-INPUT D:\Latex Download\tex\latex\twemojis\all-twemojis.pdf
-INPUT D:\Latex Download\tex\latex\twemojis\all-twemojis.pdf
-INPUT D:\Latex Download\tex\latex\twemojis\all-twemojis.pdf
-INPUT D:\Latex Download\tex\latex\twemojis\all-twemojis.pdf
 INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpbn7t.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmn7t.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmn7t.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmi.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmi.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsy.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsy.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpex.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpex.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsya.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsya.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsyb.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsyb.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmia.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmia.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsyc.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpsyc.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpexa.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpexa.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmit7t.tfm
 INPUT D:\Latex Download\tex\latex\fontawesome\ufontawesomethree.fd
 INPUT D:\Latex Download\tex\latex\fontawesome\ufontawesomethree.fd
 INPUT D:\Latex Download\tex\latex\fontawesome\ufontawesomethree.fd
 INPUT D:\Latex Download\fonts\tfm\public\fontawesome\FontAwesome--fontawesomethree.tfm
+INPUT D:\Latex Download\tex\latex\kpfonts\ts1jkp.fd
+INPUT D:\Latex Download\tex\latex\kpfonts\ts1jkp.fd
+INPUT D:\Latex Download\tex\latex\kpfonts\ts1jkp.fd
+INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmn7c.tfm
 INPUT D:\Latex Download\fonts\vf\adobe\times\ptmb7t.vf
 INPUT D:\Latex Download\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\JJ-PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -427,13 +406,10 @@ INPUT D:\Latex Download\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT D:\Latex Download\fonts\vf\public\kpfonts\jkpbn7t.vf
 INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpbne.tfm
 INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpbn8r.tfm
-INPUT D:\Latex Download\fonts\vf\public\kpfonts\jkpmit7t.vf
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmite.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmit8r.tfm
-INPUT D:\Latex Download\fonts\vf\public\kpfonts\jkpmn7t.vf
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmne.tfm
-INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmn8r.tfm
 INPUT D:\Latex Download\fonts\enc\dvips\fontawesome\fontawesomethree.enc
+INPUT D:\Latex Download\fonts\vf\public\kpfonts\jkpmn7c.vf
+INPUT D:\Latex Download\fonts\tfm\public\kpfonts\jkpmnc.tfm
+INPUT D:\Latex Download\fonts\enc\dvips\kpfonts\kpfonts-expert.enc
 INPUT main.aux
 INPUT D:\Latex Download\fonts\type1\public\fontawesome\FontAwesome.pfb
 INPUT D:\Latex Download\fonts\type1\public\fontawesome\FontAwesome.pfb
@@ -441,10 +417,10 @@ INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpbn8a.pfb
 INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpbn8a.pfb
 INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpmi.pfb
 INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpmi.pfb
-INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpmit8a.pfb
-INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpmit8a.pfb
 INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpmn8a.pfb
 INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpmn8a.pfb
+INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpmne.pfb
+INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpmne.pfb
 INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpsya.pfb
 INPUT D:\Latex Download\fonts\type1\public\kpfonts\jkpsya.pfb
 INPUT D:\Latex Download\fonts\type1\urw\times\utmb8a.pfb
