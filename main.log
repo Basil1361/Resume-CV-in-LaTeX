@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.23)  13 NOV 2025 17:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.23)  13 NOV 2025 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1527,7 +1527,7 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 
 (scrartcl)              Ignoring this warning could result in several error
 (scrartcl)              messages and formatting issues after loading package
-(scrartcl)              `sectsty' on input line 53.
+(scrartcl)              `sectsty' on input line 73.
 
 \spacebox=\skip74
 Class scrartcl Info: loading recommended package `bookmark'.
@@ -1537,7 +1537,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 101.
+(scrartcl)           before \begin{document} on input line 121.
 (D:\Latex Download\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 
@@ -1547,71 +1547,71 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 \BKM@id=\count341
 ))
 LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 1
-01.
+21.
 
 (D:\Latex Download\tex/latex/kpfonts\ot1jkp.fd
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 101.
+LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 121.
 LaTeX Font Info:    Trying to load font information for OML+jkp on input line 1
-01.
+21.
 
 (D:\Latex Download\tex/latex/kpfonts\omljkp.fd
 File: omljkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 121.
 LaTeX Font Info:    Trying to load font information for OMS+jkp on input line 1
-01.
+21.
 
 (D:\Latex Download\tex/latex/kpfonts\omsjkp.fd
 File: omsjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 121.
 LaTeX Font Info:    Trying to load font information for OMX+jkp on input line 1
-01.
+21.
 
 (D:\Latex Download\tex/latex/kpfonts\omxjkp.fd
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 121.
 LaTeX Font Info:    Trying to load font information for U+jkpexa on input line 
-101.
+121.
 
 (D:\Latex Download\tex/latex/kpfonts\ujkpexa.fd
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-Package scrbase Info: activating english \abstractname on input line 101.
-Package scrbase Info: activating english \partname on input line 101.
-Package scrbase Info: activating english \figurename on input line 101.
-Package scrbase Info: activating english \tablename on input line 101.
-Package scrbase Info: activating english \contentsname on input line 101.
-Package scrbase Info: activating english \listfigurename on input line 101.
-Package scrbase Info: activating english \listtablename on input line 101.
-Package scrbase Info: activating english \refname on input line 101.
-Package scrbase Info: activating english \indexname on input line 101.
-LaTeX Info: Redefining \microtypecontext on input line 101.
-Package microtype Info: Applying patch `item' on input line 101.
-Package microtype Info: Applying patch `toc' on input line 101.
-Package microtype Info: Applying patch `eqnum' on input line 101.
-Package microtype Info: Applying patch `footnote' on input line 101.
-Package microtype Info: Applying patch `verbatim' on input line 101.
-LaTeX Info: Redefining \microtypesetup on input line 101.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+Package scrbase Info: activating english \abstractname on input line 121.
+Package scrbase Info: activating english \partname on input line 121.
+Package scrbase Info: activating english \figurename on input line 121.
+Package scrbase Info: activating english \tablename on input line 121.
+Package scrbase Info: activating english \contentsname on input line 121.
+Package scrbase Info: activating english \listfigurename on input line 121.
+Package scrbase Info: activating english \listtablename on input line 121.
+Package scrbase Info: activating english \refname on input line 121.
+Package scrbase Info: activating english \indexname on input line 121.
+LaTeX Info: Redefining \microtypecontext on input line 121.
+Package microtype Info: Applying patch `item' on input line 121.
+Package microtype Info: Applying patch `toc' on input line 121.
+Package microtype Info: Applying patch `eqnum' on input line 121.
+Package microtype Info: Applying patch `footnote' on input line 121.
+Package microtype Info: Applying patch `verbatim' on input line 121.
+LaTeX Info: Redefining \microtypesetup on input line 121.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1682,9 +1682,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 101.
+Package hyperref Info: Link coloring ON on input line 121.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-26.
+46.
 (D:\Latex Download\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -1692,13 +1692,13 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 126.
+ut line 146.
 
 (D:\Latex Download\tex/latex/fontawesome\ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 126.
+ut line 146.
 
 (D:\Latex Download\tex/latex/fontawesome\ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
@@ -1709,10 +1709,10 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 133.
+ne 153.
 
 LaTeX Font Info:    Trying to load font information for OT1+jkpss on input line
- 133.
+ 153.
 (D:\Latex Download\tex/latex/kpfonts\ot1jkpss.fd
 File: ot1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for OT1/jkpss.
 )
@@ -1721,25 +1721,25 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for U+jkpsya on input line 
-135.
+155.
 
 (D:\Latex Download\tex/latex/kpfonts\ujkpsya.fd
 File: ujkpsya.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsyb on input line 
-135.
+155.
 
 (D:\Latex Download\tex/latex/kpfonts\ujkpsyb.fd
 File: ujkpsyb.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpmia on input line 
-135.
+155.
 
 (D:\Latex Download\tex/latex/kpfonts\ujkpmia.fd
 File: ujkpmia.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 
-135.
+155.
 
 (D:\Latex Download\tex/latex/kpfonts\ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
@@ -1750,7 +1750,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 140.
+ne 160.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1758,10 +1758,10 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 150.
+ne 170.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 153.
+nput line 173.
 (D:\Latex Download\tex/latex/fontawesome\ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
@@ -1771,10 +1771,10 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 164.
+ne 184.
 
 LaTeX Font Info:    Trying to load font information for TS1+jkp on input line 1
-68.
+88.
 (D:\Latex Download\tex/latex/kpfonts\ts1jkp.fd
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
 )
@@ -1789,7 +1789,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 176.
+ne 196.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1797,7 +1797,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 192.
+ne 212.
 
 
 
@@ -1814,7 +1814,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 213.
+ne 233.
 
 
 
@@ -1825,10 +1825,10 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 39008 strings out of 468081
- 789688 string characters out of 5438741
- 1431483 words of memory out of 5000000
- 67091 multiletter control sequences out of 15000+600000
+ 39012 strings out of 468081
+ 789714 string characters out of 5438741
+ 1432544 words of memory out of 5000000
+ 67095 multiletter control sequences out of 15000+600000
  657623 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,5n,107p,11236b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1838,7 +1838,7 @@ ublic/kpfonts/jkpmi.pfb><D:/Latex Download/fonts/type1/public/kpfonts/jkpmn8a.p
 fb><D:/Latex Download/fonts/type1/public/kpfonts/jkpmne.pfb><D:/Latex Download/
 fonts/type1/public/kpfonts/jkpsya.pfb><D:/Latex Download/fonts/type1/urw/times/
 utmb8a.pfb><D:/Latex Download/fonts/type1/urw/times/utmbi8a.pfb>
-Output written on main.pdf (2 pages, 94490 bytes).
+Output written on main.pdf (2 pages, 94536 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
